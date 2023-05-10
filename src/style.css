@@ -1,0 +1,5 @@
+@keyframes lf_animate_dash {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
